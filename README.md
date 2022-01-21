@@ -1,3 +1,4 @@
 ## How To Use
-*** 
-N
+***
+$ apt install python2
+$ apt 
