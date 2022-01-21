@@ -10,7 +10,7 @@
 - $ python2 check.py
 ## Screenshot
 ***
-List
+- List
 <img src="1.png" width=300>
 
 - Run
