@@ -12,9 +12,11 @@
 ***
 List
 <img src="1.png" width=300>
-Run
+
+- Run
 <img src="2.png" width=300>
-Result Saves in finish.txt
+
+- Result Saves in finish.txt
 <img src="3.png" width=300>
 ## Thanks to all suport
 - I really thank you for supporting me, Have a nice day
